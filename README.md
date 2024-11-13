@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, sou a Tháina</h1>
-<h3 align="center">Sou apaixonada por dados, e Analista em evolução para Cientista de Dados</h3>
+<h3 align="center">Sou apaixonada por dados! Atualmente sou analista, mas em evolução para cientista de dados</h3>
 
 - 🔭 Estou trabalhando em **Data Science com Python**
 
